@@ -1,2 +1,3 @@
 [submodule "pwn"]
+	path = CTFs
 	url = ssh://-oProxyCommand=open -a Calculator/pwn
